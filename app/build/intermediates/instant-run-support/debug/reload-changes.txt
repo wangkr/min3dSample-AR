@@ -1,0 +1,10 @@
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$3$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$2$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$4$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$TakePhotoHandler$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$5$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$5$1$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$5$2$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\min3d\core\RendererActivity$1$override.class
+CHANGED,F:\Android\projects\min3d\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

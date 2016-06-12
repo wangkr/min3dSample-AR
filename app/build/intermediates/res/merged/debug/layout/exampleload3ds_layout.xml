@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.opengl.GLSurfaceView
+        android:id="@+id/gl_surfaceview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <min3d.sampleProject1.CameraView
+        android:id="@+id/surfaceview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <Button
+        android:id="@+id/capture_btn"
+        android:text="截取"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="20dp"/>
+</FrameLayout>

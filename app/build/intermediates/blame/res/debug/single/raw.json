@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro2_obj",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\raw\\camaro2_obj"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_obj",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\raw\\camaro_obj"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monster_high.3ds",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\raw\\monster_high.3ds"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_mtl",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\raw\\camaro_mtl"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ogro.md2",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\raw\\ogro.md2"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro2_mtl",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\raw\\camaro2_mtl"
+    }
+]

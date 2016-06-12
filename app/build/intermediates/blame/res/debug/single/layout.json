@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_activity.xml",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exampleload3ds_layout.xml",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\layout\\exampleload3ds_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scratch_layout.xml",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\layout\\scratch_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyframe_anim_layout.xml",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\layout\\keyframe_anim_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lightproperties_layout.xml",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\layout\\lightproperties_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\projects\\min3d\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_layout_example.xml",
+        "source": "F:\\Android\\projects\\min3d\\app\\src\\main\\res\\layout\\custom_layout_example.xml"
+    }
+]
